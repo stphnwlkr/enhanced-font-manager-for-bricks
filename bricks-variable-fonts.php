@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Enhanced Font Manager for Bricks
  * Description: A font library, specimen preview and CSS inspector inside Bricks Builder.
- * Version: 0.3.0
+ * Version: 0.3.1
  * Plugin URI: https://github.com/stphnwlkr/enhanced-font-manager-for-bricks
  * Update URI: https://github.com/stphnwlkr/enhanced-font-manager-for-bricks
  * Requires at least: 6.5
@@ -19,7 +19,7 @@ defined( 'ABSPATH' ) || exit;
 
 const NAME = 'Enhanced Font Manager for Bricks';
 const SLUG = 'bricks-variable-fonts';
-const VERSION = '0.3.0';
+const VERSION = '0.3.1';
 const FORMATS = [ 'woff2', 'woff', 'ttf', 'otf', 'eot' ];
 const META = '_bvf_family_settings';
 const ROLES = [ 'heading' => 'h1,h2,h3,h4,h5,h6', 'text' => 'body' ];

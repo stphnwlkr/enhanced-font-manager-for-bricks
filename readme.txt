@@ -4,7 +4,7 @@ Tags: bricks, fonts, typography, woff2
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 8.1
-Stable tag: 0.3.0
+Stable tag: 0.3.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ Select saved WOFF, TTF or OTF attachments in Files and use Convert to WOFF2 to u
 WordPress checks the plugin's public GitHub Releases for updates. The check retrieves public release metadata and downloads the installable ZIP when you choose to update or enable WordPress automatic updates. It requires no GitHub account or token.
 
 == Changelog ==
+
+= 0.3.1 =
+* Maintenance release to verify GitHub updates through WordPress Admin.
 
 = 0.3.0 =
 * Added GitHub-backed plugin updates in WordPress Admin.

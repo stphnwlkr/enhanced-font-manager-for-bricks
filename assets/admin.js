@@ -1,4 +1,4 @@
-import { prepareFont, startCodec } from './font-files.js?ver=0.3.0';
+import { prepareFont, startCodec } from './font-files.js?ver=0.3.1';
 
 const manager = document.getElementById('bvf-manager');
 if (manager) start(manager);
