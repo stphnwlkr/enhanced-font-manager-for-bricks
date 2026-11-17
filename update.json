@@ -1,0 +1,12 @@
+{
+  "name": "Enhanced Font Manager for Bricks",
+  "slug": "bricks-variable-fonts",
+  "version": "0.3.0",
+  "requires": "6.5",
+  "tested": "7.1",
+  "requires_php": "8.1",
+  "download_url": "https://github.com/stphnwlkr/enhanced-font-manager-for-bricks/releases/download/v0.3.0/bricks-variable-fonts.zip",
+  "sections": {
+    "changelog": "<h4>0.3.0</h4><ul><li>Added GitHub-backed plugin updates in WordPress Admin.</li><li>Hardened validation of incoming font uploads.</li><li>Replaced the toolbar icon with an original circular Aa design.</li></ul>"
+  }
+}
